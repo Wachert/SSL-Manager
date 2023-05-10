@@ -21,3 +21,6 @@
 1. jQuery, http://jquery.com/
 2. Clipboard, https://zenorocha.github.io/clipboard.js
 3. OpenSSL, https://www.openssl.org/
+
+
+=> http://www.zedwood.com/article/php-create-csr-and-private-key
