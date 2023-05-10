@@ -24,3 +24,4 @@
 
 
 => http://www.zedwood.com/article/php-create-csr-and-private-key
+=> https://www.pixelite.co.nz/article/how-to-generate-a-csr-with-sans-in-php/
